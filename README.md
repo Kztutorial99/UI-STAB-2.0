@@ -1,31 +1,46 @@
-𝗨𝗣𝗗𝗔𝗧𝗘 𝗨𝗜 𝗦𝗧𝗔𝗕 𝟮.𝟬
-ᯓ 𝗣𝗥𝗢𝗧𝗘𝗖𝗧𝗜𝗢𝗡:
-➛ ʙʏᴘᴀss ʟᴏʙʏ
-➛ ʙʏᴘᴀss ʙʟᴀᴄᴋʟɪsᴛ
-➛ ʙʏᴘᴀss ʀᴇᴘᴏʀᴛ
+# UPDATE UI STAB 2.0  
+UI update with the latest features to enhance performance and improve your gaming experience.  
 
-ᯓ 𝗙𝗘𝗔𝗧𝗨𝗥𝗘:
-➛ ᴀɪᴍ ʙᴏᴛ sᴍᴏᴏᴛʜ
-➛ ᴀɪᴍ ʙᴏᴛ ᴍᴇᴅɪᴜᴍ
-➛ ᴀɪᴍ xɪʟᴇɴᴛ 𝟻𝟶%
-➛ ᴀɪᴍ xɪʟᴇɴᴛ 𝟾𝟶%
-➛ ᴍᴀɢɪᴄ ʙᴜʟʟᴇᴛ 𝟻𝟶%
-➛ ᴍᴀɢɪᴄ ʙᴜʟʟᴇᴛ 𝟾𝟶%
-➛ ᴀɴᴛᴇɴᴀ + ᴡᴀʟʟ ʜᴀᴄᴋ
-➛ ᴀɴᴛᴇɴᴀ ᴏɴʟʏ
-➛ ᴡᴀʟʟ ʜᴀᴄᴋ ᴏʟɴʏ
-➛ sᴘᴇᴇᴅ ᴜᴘ 
-➛ ɴᴏ ʀᴇᴄᴏɪʟ
-➛ ғʟᴀʏ ʜᴀᴄᴋ
+---
 
-ᯓ 𝗚𝗔𝗠𝗘 𝗢𝗣𝗧𝗜𝗠𝗜𝗭𝗘𝗥:
-➛ ᴀᴜᴛᴏ ʙᴏᴏsᴛᴇʀ
-➛ ʜɪɢʜ ɢʀᴀᴘʜɪᴄs
-➛ ғɪʟᴛᴇʀ ɢʀᴀᴘʜɪᴄs
-➛ ᴏᴘᴛɪᴍɪᴢᴇ ғᴘs
+## ᯓ PROTECTION  
+➛ Bypass Lobby  
+➛ Bypass Blacklist  
+➛ Bypass Report  
 
-𝗖𝗟𝗘𝗔𝗡  𝗧𝗥𝗔𝗦𝗛:
-➛ ᴛᴇᴍᴘᴏʀᴀʀʏ ғɪʟᴇs
-➛ ʟᴏɢs ғɪʟᴇs
-➛ ʀᴇsɪᴅᴜᴀʟ ғɪʟᴇs
-➛ ʀᴇᴅᴜɴᴅᴀɴᴛ sᴄʀɪᴘᴛs
+---
+
+## ᯓ FEATURE  
+➛ Aim Bot Smooth  
+➛ Aim Bot Medium  
+➛ Aim Silent 50%  
+➛ Aim Silent 80%  
+➛ Magic Bullet 50%  
+➛ Magic Bullet 80%  
+➛ Antenna + Wall Hack  
+➛ Antenna Only  
+➛ Wall Hack Only  
+➛ Speed Up  
+➛ No Recoil  
+➛ Fly Hack  
+
+---
+
+## ᯓ GAME OPTIMIZER  
+➛ Auto Booster  
+➛ High Graphics  
+➛ Filter Graphics  
+➛ Optimize FPS  
+
+---
+
+## ᯓ CLEAN TRASH  
+➛ Temporary Files  
+➛ Logs Files  
+➛ Residual Files  
+➛ Redundant Scripts  
+
+---
+
+**Note:**
+Always ensure to use these features responsibly and in compliance with game policies.
