@@ -2413,7 +2413,27 @@ swits["第1页"]["第1板块"] = {
         gg.clearResults()
         gg.toast("Deactivated ✓")
    end
-    
+   changan.switch("Antena Loop",
+    function()
+    gg.clearResults()
+    gg.setRanges(gg.REGION_OTHER)
+    while true do
+        gg.searchNumber("1.07758331299", 16, false, 536870912, 0, -1, 0)
+        gg.setVisible(false)
+        gg.processResume()
+        gg.refineNumber("1.07758331299", 16, false, 536870912, 0, -1, 0)
+        gg.setVisible(false)
+        local results = gg.getResults(1000)
+        for i, result in ipairs(results) do
+            gg.editAll("-9999", 16)
+            gg.setVisible(false)
+        end
+        gg.toast("Actived ✓")
+        gg.sleep(1000)
+    end end,
+    function()
+    end
+										
    ),
     -- Fitur N
    changan.switch("No Recoil",
